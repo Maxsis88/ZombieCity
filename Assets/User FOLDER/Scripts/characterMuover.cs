@@ -8,6 +8,8 @@ public class characterMuover : MonoBehaviour
     CharacterController chController;
     float gravityForce = -1;
     [SerializeField]
+
+    
     float speedWalk = 1;
     [SerializeField]
     float speedRun = 3;
